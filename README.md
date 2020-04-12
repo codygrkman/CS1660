@@ -17,9 +17,7 @@ The following items were implemented from the Project Grading Criteria:
 | Implementation of Custom Functionality (e.g. Hadoop counters, logging, etc... | No |
 | Implementation of Secondary Sorting Algorithm with Inverted Indexing | No |
 
-Implemented in addition to grading criteria:
-
-    * Ability to run Inverted Index program on uploaded files. i.e. the job runs on whatever file is uploaded, not just the 3 arbitrary ones provided as examples.
+In addition to the described criteria, this program also possesses the ability to run Inverted Index program on uploaded files. i.e. the job runs on whatever file is uploaded, not just the 3 arbitrary ones provided as examples.
 
 #### About
 
